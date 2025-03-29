@@ -1,1 +1,0 @@
-# TUGAS1_IAE
