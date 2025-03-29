@@ -1,0 +1,26 @@
+.search-container, .dog-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.dog-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.dog-item {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.dog-details img {
+    max-width: 300px;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
